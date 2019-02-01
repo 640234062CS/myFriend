@@ -1,0 +1,46 @@
+[
+ {
+   "studentID": "604234062",
+   "firstname": "Ihsan",
+   "lastname": "Mayu",
+   "nickname": "San",
+   "faculty":"Science And Tecnology",
+   "major":"ComputerScience",
+   "birthday": "1998-10-26",
+   "picture":"https://raw.githubusercontent.com/640234062CS/myFriend/master/IMG_6385.JPG",
+   "classroom":"ComsciB"
+},
+{
+   "studentID": "604234038",
+   "firstname": "Sulkhoiree",
+   "lastname": "Seman",
+   "nickname": "Ju",
+   "faculty":"Science And Tecnology",
+   "major":"ComputerScience",
+   "birthday": "1998-09-25",
+   "picture":"https://raw.githubusercontent.com/640234062CS/myFriend/master/25659475_303803100138810_1091359682759851174_n.jpg"
+   "classroom":"ComsciB"
+},
+{
+"studentID": "604234052",
+   "firstname": "Woralak",
+   "lastname": "Phanich",
+   "nickname": "Aom",
+   "faculty":"Science And Tecnology",
+   "major":"ComputerScience",
+   "birthday": "1998-07-15",
+   "picture":"https://raw.githubusercontent.com/640234062CS/myFriend/master/50788429_1981672315285799_1609368166146768896_n.jpg"
+   "classroom":"ComsciB"
+},
+{
+"studentID": "604234049",
+   "firstname": "Muhammad",
+   "lastname": "Hayeemayi",
+   "nickname": "Mad",
+   "faculty":"Science And Tecnology",
+   "major":"ComputerScience",
+   "birthday": "1998-05-20",
+   "picture":"https://raw.githubusercontent.com/640234062CS/myFriend/master/49947497_2235720960029916_3637863580616884224_n.jpg"
+   "classroom":"ComsciB"
+}
+]
