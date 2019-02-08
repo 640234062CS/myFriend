@@ -5,16 +5,16 @@
    "lastname": "Mayu",
    "nickname": "San",
    "birthDate": "1998-10-26", 
-   "picture": "https://raw.githubusercontent.com/640234062CS/myFriend/master/IMG_6385.JPG" 
- },
-
+   "picture": "https://raw.githubusercontent.com/640234062CS/myFriend/master/IMG_6385.JPG" ,
+   "category" : "ComsciB"
  {
    "student id": "604234038",
    "firstname": "Sulkhoiree",
    "lastname": "Seman",
    "nickname": "Ju",
    "birthDate": "1998-09-25", 
-   "picture": "https://raw.githubusercontent.com/640234062CS/myFriend/master/25659475_303803100138810_1091359682759851174_n.jpg" 
+   "picture": "https://raw.githubusercontent.com/640234062CS/myFriend/master/25659475_303803100138810_1091359682759851174_n.jpg",
+   "category" : "ComsciB"
  },
 
  {
@@ -23,7 +23,8 @@
    "lastname": "Hayeemayi",
    "nickname": "Nasree",
    "birthDate": "1998-05-08", 
-   "picture": "https://raw.githubusercontent.com/640234062CS/myFriend/master/49947497_2235720960029916_3637863580616884224_n.jpg" 
+   "picture": "https://raw.githubusercontent.com/640234062CS/myFriend/master/49947497_2235720960029916_3637863580616884224_n.jpg" ,
+   "category" : "ComsciB"
  },
 
  {
@@ -32,6 +33,7 @@
    "lastname": "Phanich",
    "nickname": "Aom",
    "birthDate": "1998-07-15", 
-   "picture": "https://raw.githubusercontent.com/640234062CS/myFriend/master/50788429_1981672315285799_1609368166146768896_n.jpg"
+   "picture": "https://raw.githubusercontent.com/640234062CS/myFriend/master/50788429_1981672315285799_1609368166146768896_n.jpg",
+   "category" : "ComsciB"
  }
 ]
