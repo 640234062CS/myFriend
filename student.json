@@ -1,6 +1,6 @@
 [
  {
-   "student id": "604234062",
+   "studentid": "604234062",
    "firstname": "Ihsan",
    "lastname": "Mayu",
    "nickname": "San",
@@ -9,7 +9,7 @@
    "category" : "ComsciB"
  },
  {
-   "student id": "604234038",
+   "studentid": "604234038",
    "firstname": "Sulkhoiree",
    "lastname": "Seman",
    "nickname": "Ju",
@@ -19,7 +19,7 @@
  },
 
  {
-   "student id": "604234049",
+   "studentid": "604234049",
    "firstname": "Muhammad",
    "lastname": "Hayeemayi",
    "nickname": "Nasree",
@@ -29,7 +29,7 @@
  },
 
  {
-   "student id": "604234052",
+   "studentid": "604234052",
    "firstname": "Woralak",
    "lastname": "Phanich",
    "nickname": "Aom",
